@@ -1,0 +1,12 @@
+# Ignore encoded outputs
+encoded_clips/
+
+# Ignore metrics and CSV
+metrics/
+
+# Ignore plots (optional)
+plots/
+
+# Python cache
+__pycache__/
+*.pyc
